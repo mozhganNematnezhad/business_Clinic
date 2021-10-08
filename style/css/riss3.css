@@ -1,0 +1,14 @@
+
+.custom-welcome-container {
+   display: block;
+}
+
+#custom-top-menu-container .text-welcome1{
+   display: none!important;
+}
+
+#custom-top-menu-container .login  {
+   position: relative!important;
+   left: -195px!important;
+}
+

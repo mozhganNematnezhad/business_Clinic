@@ -1,0 +1,12 @@
+
+.custom-welcome-container {
+    display: none;
+ }
+
+
+ card .card-title h5.card-text{
+    font-size: 14px!important;
+    font-weight: bold!important;
+}
+
+

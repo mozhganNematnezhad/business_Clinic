@@ -1,0 +1,10 @@
+
+nav#nav-header , #custom-top-menu-container, .custom-welcome-container{
+    margin-right: 22px!important;
+    margin-left: 22px!important;
+}
+
+ul.navbar-nav .nav-item .nav-link {
+    font-size: 13px;
+}
+
